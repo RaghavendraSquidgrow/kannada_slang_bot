@@ -1,0 +1,1 @@
+worker: python kannada_telegram_bot.py
