@@ -15,8 +15,8 @@ import anthropic
 # ─────────────────────────────────────────────
 #  CONFIG
 # ─────────────────────────────────────────────
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "YOUR_TELEGRAM_BOT_TOKEN_HERE")
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "YOUR_ANTHROPIC_API_KEY_HERE")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8747058149:AAERzU2syXujQ2IhvhZW-PC_HU7Poc_PVTA")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "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")
 
 # ─────────────────────────────────────────────
 #  Random Moods — Bot picks a different mood
@@ -251,3 +251,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
